@@ -2,10 +2,6 @@
 
 ## I'm a Software Developer!!
 
-- 🔭 I'm currently working on Django, ReactJS
-- 🌱 I’m currently learning Kotlin and a lot more 🤣
-- 🌱 I'm currently looking forward to learn Cyber Security
-- 🥅 2022 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to listen to songs all the time
 
 ### Spotify Playing 🎧
